@@ -96,7 +96,7 @@ An event website developed with a consistent theme and dark UI styling.
 
 ## 📫 Connect With Me  
 
-- **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN-URL ](https://www.linkedin.com/in/veera-pallavi-shanigaram-0a0819290/) 
+- **LinkedIn:** https://www.linkedin.com/in/veera-pallavi-shanigaram-0a0819290/
 - **GitHub:** https://github.com/Palllllavvi  
 
 ---
